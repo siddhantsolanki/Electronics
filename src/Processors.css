@@ -1,0 +1,58 @@
+.square{
+position: absolute;
+width: 310px;
+height: 337px;
+left: 21px;
+
+
+background: #4B50CD;
+border-radius: 40px;
+top: 10px;
+}
+
+.square2
+{
+position: absolute;
+width: 310px;
+height: 337px;
+left: 345px;
+top: 10px;
+
+background: #f8e326;
+border-radius: 40px;
+}
+.square3
+{
+    position: absolute;
+    width: 310px;
+    height: 337px;
+    left: 670px;
+    top: 10px;
+    
+    background: #00f320;
+    border-radius: 40px;
+}
+.square4
+{
+        position: absolute;
+        width: 310px;
+        height: 337px;
+        left: 995px;
+        top: 10px;
+        
+        background: #e91111;
+        border-radius: 40px;
+}
+
+.square:hover {
+background: black;
+}
+.square2:hover {
+background: black;
+}
+.square3:hover {
+background: black;
+}
+.square4:hover {
+background: black;
+}
