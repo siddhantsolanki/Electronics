@@ -3,8 +3,7 @@ position: absolute;
 width: 310px;
 height: 337px;
 left: 21px;
-
-
+color: black;   
 background: #4B50CD;
 border-radius: 40px;
 top: 10px;
@@ -17,6 +16,7 @@ width: 310px;
 height: 337px;
 left: 345px;
 top: 10px;
+color: black;
 
 background: #f8e326;
 border-radius: 40px;
@@ -28,6 +28,7 @@ border-radius: 40px;
     height: 337px;
     left: 670px;
     top: 10px;
+color: black;
     
     background: #00f320;
     border-radius: 40px;
@@ -39,20 +40,54 @@ border-radius: 40px;
         height: 337px;
         left: 995px;
         top: 10px;
+color: black;
         
         background: #e91111;
         border-radius: 40px;
 }
 
+.image1{
+    width:230px;
+    height:250px;
+    z-index: 1;
+    border-radius: 10px;
+    
+}
+
+.image2{
+    width:230px;
+    height:250px;
+    z-index: 1;
+    border-radius: 10px;
+    
+}
+.image3{
+    width:230px;
+    height:250px;
+    z-index: 1;
+    border-radius: 10px;
+    
+}.image4{
+    width:230px;
+    height:250px;
+    z-index: 1;
+    border-radius: 10px;
+    
+}
 .square:hover {
+    color: white;
 background: black;
 }
 .square2:hover {
+    color: white;
+
 background: black;
 }
 .square3:hover {
+    color: white;
 background: black;
 }
 .square4:hover {
+    color: white;
 background: black;
 }
