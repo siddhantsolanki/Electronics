@@ -4,11 +4,13 @@ import Processors from './processors.js'
 import Controllers from './Controllers'
 import Sensors from './Sensors.js'
 import Peripherals from './Peripherals.js'
+import Heading from './heading';
 
 
 function App() {
   return (
     <div className="App">
+      <Heading/>
       <Processors/>
       <Controllers/>
       <Sensors/>
