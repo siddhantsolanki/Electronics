@@ -8,6 +8,7 @@ class Controllers extends Component{
             <div className="square2">
                 <h2>MicroControllers</h2>
                 <img src={image2} alt="image2" className="image2"></img>
+                <button className="button2">Explore</button>
             </div>
         );
     }

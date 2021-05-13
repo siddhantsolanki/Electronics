@@ -10,11 +10,15 @@ import Heading from './heading';
 function App() {
   return (
     <div className="App">
+      
+      <div className="main">
       <Heading/>
       <Processors/>
       <Controllers/>
       <Sensors/>
       <Peripherals/>
+    </div>
+      
     </div>
   );
 }

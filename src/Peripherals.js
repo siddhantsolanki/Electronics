@@ -7,6 +7,7 @@ class Peripherals extends Component {
             <div className="square4">
                 <h2>Peripherals</h2>
                 <img src={image4} alt="img3" className="image4"/>
+                <button className="button4">Explore</button>
             </div>
         );
     }

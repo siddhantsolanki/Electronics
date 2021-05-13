@@ -7,6 +7,7 @@ class Sensors extends Component{
             <div className="square3">
                 <h2>Sensors</h2>
                 <img src={image3} alt="image3" className="image3"/>
+                <button className="button3">Explore</button>
             </div>
         );
     }
