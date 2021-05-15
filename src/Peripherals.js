@@ -1,5 +1,5 @@
 import React,{ Component } from 'react';
-import './Processors.css';
+import './Tiles.css';
 import image4 from './New Project 3.png';
 class Peripherals extends Component {
     render(){

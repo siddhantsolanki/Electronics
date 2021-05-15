@@ -1,5 +1,5 @@
 import React,{ Component } from 'react';
-import './Processors.css';
+import './Tiles.css';
 import image2 from './New Project 1.png'
 
 class Controllers extends Component{

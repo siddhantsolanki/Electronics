@@ -1,5 +1,5 @@
 import React,{ Component } from 'react';
-import './Processors.css'
+import './Tiles.css'
 import image3 from './New Project 2.png';
 class Sensors extends Component{
     render(){

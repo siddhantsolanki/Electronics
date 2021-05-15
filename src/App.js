@@ -13,13 +13,13 @@ function App() {
       
       <div className="main">
       <Heading/>
+      </div>
       <Processors/>
       <Controllers/>
       <Sensors/>
       <Peripherals/>
-    </div>
-      
-    </div>
+    
+      </div>
   );
 }
 
