@@ -18,7 +18,6 @@ function App() {
       <Controllers/>
       <Sensors/>
       <Peripherals/>
-    
       </div>
   );
 }

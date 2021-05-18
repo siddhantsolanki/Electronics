@@ -1,9 +1,10 @@
 .App{
   text-align: center;
   position: inherit;
+  background-image: url("./background.jpg");
 }
 
 .main{
   display: flex;
-  align-items: center;
+  justify-content: center;
 }
