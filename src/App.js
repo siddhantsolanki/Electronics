@@ -5,12 +5,13 @@ import Controllers from './Controllers'
 import Sensors from './Sensors.js'
 import Peripherals from './Peripherals.js'
 import Heading from './heading';
-
+import Background from './background.jpg'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
       
+
       <div className="main">
       <Heading/>
       </div>
@@ -18,6 +19,7 @@ function App() {
       <Controllers/>
       <Sensors/>
       <Peripherals/>
+      <img src={Background} className="backgroud"></img>
       </div>
   );
 }
